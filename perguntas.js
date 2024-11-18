@@ -21,3 +21,13 @@ criaCartao(
     'quantos ossos tem o corpo humano?',
     '206 ossos'
 )
+criaCartao(
+    'história',
+    'Quando se iniciou a ditadura militar no brasil?',
+    '1964'
+)
+criaCartao(
+    'biologia',
+    'Qual o maior osso do corpo humano?',
+    'femur'
+)
